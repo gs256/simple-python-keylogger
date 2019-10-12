@@ -1,0 +1,86 @@
+'Ô'                             time           
+'Ô'                             time           
+'Û'                             time           
+'À'                             time           
+'Ô'                             time           
+'Û'                             time           
+'Â'                             time           
+'À'                             time           
+'Ô'                             time           
+'Û'                             time           
+'Â'                             time           
+Key.shift                       time           
+Key.alt_l                       time           
+Key.shift       (up)            time           
+Key.ctrl_l      (up)            time           
+Key.alt_l       (up)            time           
+'¨'                             time           
+Key.esc                         time           
+'A'                             time           
+'S'                             time           
+'D'                             time           
+'F'                             time           
+Key.caps_lock                   time           
+Key.caps_lock                   time           
+Key.caps_lock                   time           
+Key.caps_lock                   time           
+Key.esc                         time           
+'f'                             16:29:51       
+'d'                             16:29:52       
+'f'                             16:29:52       
+Key.alt_l                       16:29:53       
+Key.alt_l       (up)            16:29:53       
+Key.shift                       16:29:54       
+Key.shift       (up)            16:29:54       
+Key.caps_lock                   16:29:55       
+Key.caps_lock                   16:29:55       
+Key.esc                         16:29:56       
+'d'                             19:31:58.844485
+'f'                             19:31:59.220785
+'s'                             19:31:59.500466
+Key.esc                         19:31:59.956552
+'d'                             19:36:31.724908
+'f'                             19:36:31.877075
+'s'                             19:36:31.980386
+Key.esc                         19:36:32.565069
+'s'                             19:38:12.820595
+'d'                             19:38:12.964640
+'f'                             19:38:13.028713
+'d'                             19:38:13.244431
+Key.esc                         19:38:13.835023
+'q'                             19:39:26.668461
+'w'                             19:39:26.820430
+'1'                             19:39:27.324566
+'2'                             19:39:27.964909
+'3'                             19:39:28.212972
+Key.f1                          19:39:29.372193
+Key.tab                         19:39:36.604182
+Key.caps_lock                   19:39:37.212708
+Key.shift                       19:39:38.372226
+Key.shift       (up)            19:39:38.556658
+Key.ctrl_l                      19:39:39.188331
+Key.ctrl_l      (up)            19:39:39.364300
+Key.cmd                         19:39:41.276477
+Key.cmd         (up)            19:39:41.428377
+Key.backspace                   19:39:45.180709
+Key.delete                      19:39:47.980349
+Key.enter                       19:39:50.972380
+Key.up                          19:39:52.100685
+Key.right                       19:39:52.597034
+Key.down                        19:39:53.197009
+Key.left                        19:39:54.268513
+Key.esc                         19:39:56.652892
+a                               19:42:43.884848
+s                               19:42:43.913850
+d                               19:42:44.012217
+f                               19:42:44.055179
+a                               19:42:44.188791
+s                               19:42:44.221824
+d                               19:42:44.238791
+.alt_l                          19:42:44.708728
+.alt_l          (up)            19:42:44.908915
+.tab                            19:42:45.044373
+.space                          19:42:45.348332
+.alt_r                          19:42:46.700702
+.alt_r          (up)            19:42:46.836754
+.esc                            19:42:49.196887
